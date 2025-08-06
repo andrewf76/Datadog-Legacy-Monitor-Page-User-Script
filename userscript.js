@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  A robust script to switch to the legacy view on Datadog monitor pages.
 // @author       andrewf76
-// @match        https://app.datadoghq.com/monitors/*
+// @match        https://app.datadoghq.com/*
 // @grant        none
 // ==/UserScript==
 
